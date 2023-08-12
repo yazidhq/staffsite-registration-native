@@ -1,0 +1,21 @@
+Nama : Melisa
+Tempat Tanggal Lahir : 2022-12-14
+Lembaga : FIKTI
+Jabatan : Dosen
+Email : melisa@gmail.com
+Nomor Pegawai : 789
+Mulai Mengajar : 2022-12-06
+Nomor HP : 091283092
+LOKASI / RUANG
+Kampus : Kampus J
+Gedung : Gedung J1
+Lantai : Lantai 1
+STATUS
+Status : Staff Tetap
+Tipe Account : Account Baru
+Hingga Tanggal : 
+NAMA ACCOUNT & PASSWORD
+Pilihan 1 : melisa123
+Pilihan 2 : melisa456
+Alternatif : 
+Password : melisa789

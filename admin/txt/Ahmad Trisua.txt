@@ -1,0 +1,21 @@
+Nama : Ahmad Trisua
+Tempat Tanggal Lahir : 2022-11-04
+Lembaga : KEDOKTERAN
+Jabatan : Dosen
+Email : ahmad@gmail.com
+Nomor Pegawai : 120
+Mulai Mengajar : 2022-11-03
+Nomor HP : 091283092
+LOKASI / RUANG
+Kampus : Kampus D
+Gedung : Gedung 1
+Lantai : Lantai 2
+STATUS
+Status : Staff Luar Biasa
+Tipe Account : Account Sementara
+Hingga Tanggal : 2022-11-25
+NAMA ACCOUNT & PASSWORD
+Pilihan 1 : ahmad123
+Pilihan 2 : ahmad456
+Alternatif : 
+Password : ahmad789
